@@ -1,2 +1,3 @@
-my test document
-my second line
+print("my first line")
+print("my second line")
+
